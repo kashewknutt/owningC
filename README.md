@@ -1,2 +1,2 @@
 # owningC
-Learning and working in B
+Learning and working in C
